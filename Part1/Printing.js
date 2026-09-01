@@ -1,7 +1,7 @@
-console.log("Hello Anand ");
+console.log("Hello Anand");
+console.log("Hello Army")
 
-process.stdout.write("hello chai");
-process.stdout.write("Chai");
+console.table({city : "jaipur"});
+console.warn({city: "Siwan"});
 
-console.table({City : "Siwan"});
-console.warn({city : "Siwan"})
+
